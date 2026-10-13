@@ -236,8 +236,8 @@ git --version
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Tavishi-Jain/Telecom_churn_prediction_system.git
-cd Telecom_churn_prediction_system
+git clone https://github.com/sainikhiljuluri/telecom-churn-prediction.git
+cd telecom-churn-prediction
 ```
 
 ### Step 2: Create a Virtual Environment
@@ -557,14 +557,6 @@ BSNL customers churn at 28.3% (vs. 15.1% for Jio), primarily driven by data spee
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tavishi-jain-11895538a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Tavishi-Jain)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:tavishijain456@gmail.com)
 
 *If this project helped you, please consider giving it a star!*
 
